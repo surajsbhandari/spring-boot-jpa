@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.pinup.fas.FASApplication",
+      "name": "spring.datasource",
+      "type": "com.pinup.fas.FASApplication"
+    }
+  ],
+  "properties": []
+}

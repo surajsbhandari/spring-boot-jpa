@@ -1,0 +1,7 @@
+com\pinup\fas\controller\DataController.class
+com\pinup\fas\service\DataService.class
+com\pinup\fas\constants\FASConstants.class
+com\pinup\fas\model\Person.class
+com\pinup\fas\repository\PersonRepository.class
+com\pinup\fas\FASApplication.class
+META-INF\spring-configuration-metadata.json
